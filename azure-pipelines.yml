@@ -1,7 +1,7 @@
 trigger:
 - main
 
-pool: sslSelfHostedAgentPool
+pool: MyPool
 #  vmImage: 'ubuntu-latest' 
 
 variables:
